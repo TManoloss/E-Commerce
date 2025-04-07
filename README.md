@@ -1,4 +1,4 @@
-```markdown
+
 # Plataforma de E-commerce em Tempo Real com Microsserviços 🛒⚡
 
 **Projeto desenvolvido para estudos e portfólio**  
@@ -20,29 +20,42 @@ Implementar uma plataforma completa de e-commerce com funcionalidades como:
 
 ### **Infraestrutura e DevOps**
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm)
+
 
 ### **Backend e Comunicação**
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
+
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka)
+
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google)
 
 ### **Banco de Dados e Cache**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
 
 ### **Frontend e Mobile**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter)
 
 ### **Observabilidade e Segurança**
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus)
+
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana)
+
 ![Keycloak](https://img.shields.io/badge/-Keycloak-EF2A5F?logo=keycloak)
 
 ---
@@ -103,6 +116,4 @@ Este projeto é open-source sob a licença [MIT](LICENSE).
 
 **Contribuições são bem-vindas!** 👨💻  
 *Este projeto está em constante evolução - acompanhe as atualizações!*
-```
 
----
